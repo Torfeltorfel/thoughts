@@ -1,4 +1,4 @@
-# Agentic Coding & the Future of Dev Work
+# Engineering
 
 Resources I want to come back to, each with a short take. Newest at the top of the log.
 
